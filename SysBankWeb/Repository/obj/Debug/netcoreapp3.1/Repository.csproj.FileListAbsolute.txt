@@ -1,0 +1,10 @@
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\XOLIT\Pruebas\SisBankWeb_Back\SysBankWeb\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
